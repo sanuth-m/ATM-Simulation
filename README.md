@@ -1,7 +1,7 @@
 ```diff
 +# ATM Simulation by Sanuth Mallawaarachchi
 
-@@ A Python based ATM simulation that allows users to perform basic banking operations. @@
+@ A Python based ATM simulation that allows users to perform basic banking operations. @
 
 +# How to Run
 
