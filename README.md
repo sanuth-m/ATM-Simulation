@@ -14,8 +14,8 @@ A Python based ATM simulation that allows users to perform basic banking operati
 
 For testing purposes, the following accounts are pre-loaded:
 
-- Account: 123456, PIN: 1234, Balance: $5000.00
-- Account: 654321, PIN: 4321, Balance: $3000.00
+= Account: 123456, PIN: 1234, Balance: $5000.00
+= Account: 654321, PIN: 4321, Balance: $3000.00
 
 +# File Structure
 
@@ -27,12 +27,12 @@ For testing purposes, the following accounts are pre-loaded:
 
 +# Features
 
-- Account authentication with PIN verification
-- Balance inquiry
-- Cash deposits
-- Cash withdrawals with balance checks
-- PIN change functionality
-- Mini statement showing last 5 transactions
-- Account locking after 3 failed login attempts
-- Input validation for all operations
+= Account authentication with PIN verification
+= Balance inquiry
+= Cash deposits
+= Cash withdrawals with balance checks
+= PIN change functionality
+= Mini statement showing last 5 transactions
+= Account locking after 3 failed login attempts
+= Input validation for all operations
 ```
