@@ -1,23 +1,23 @@
 ```diff
--# ATM Simulation by Sanuth Mallawaarachchi
++# ATM Simulation by Sanuth Mallawaarachchi
 
 A Python based ATM simulation that allows users to perform basic banking operations.
 
-## How to Run
++# How to Run
 
 1. Ensure you have Python 3.6 or higher installed
 2. Download all the Python files into the same directory
 3. Open a terminal/command prompt in that directory
 4. Run the program with: `main.py`
 
-# Default Accounts
++# Default Accounts
 
 For testing purposes, the following accounts are pre-loaded:
 
 - Account: 123456, PIN: 1234, Balance: $5000.00
 - Account: 654321, PIN: 4321, Balance: $3000.00
 
-# File Structure
++# File Structure
 
 1.	`account.py` # Account class and related methods
 2.	`auth.py` # Authentication logic
@@ -25,7 +25,7 @@ For testing purposes, the following accounts are pre-loaded:
 4.	`transactions.py` # Transaction handling
 5.	`main.py` # Main program entry point
 
-# Features
++# Features
 
 - Account authentication with PIN verification
 - Balance inquiry
