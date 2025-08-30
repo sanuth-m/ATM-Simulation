@@ -1,4 +1,5 @@
-# ATM Simulation by Sanuth Mallawaarachchi
+```diff
+-# ATM Simulation by Sanuth Mallawaarachchi
 
 A Python based ATM simulation that allows users to perform basic banking operations.
 
@@ -34,3 +35,4 @@ For testing purposes, the following accounts are pre-loaded:
 - Mini statement showing last 5 transactions
 - Account locking after 3 failed login attempts
 - Input validation for all operations
+```
