@@ -1,4 +1,4 @@
-## ATM Simulation by sanuth mallawaarachchi
+## ATM Simulation by Sanuth Mallawaarachchi
 
 A Python based ATM simulation that allows users to perform basic banking operations.
 
